@@ -1,2 +1,4 @@
 # Password-Generator
 This program generates a strong password and encrypt it for the purpose of safety, the encrypted file can be decrypted using a special key
+
+The purpose of this program is to provide users with strong passwords that they'll use on different accounts instead of using one password for all their accounts which is unsafe, should someone gain access to the password if user uses one password for everything, all their accounts will be compromised. This program offers a solution by generating different passwords which are saved and encrypted, should one day an account become compromised the others will still be safe as different passwords will be used and another advantage is that a user doesn't have to memorize these long passwords as he can always access them by decrypting the file containing his generated password. 
